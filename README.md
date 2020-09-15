@@ -1,6 +1,6 @@
 # GradCam Visualization
 
-
+Here I performed a mahine learning visualization named as gradcam. The dataset is on a classification problem, which consists of 6 classes. The classes are    
 + building
 + forest
 + glacier

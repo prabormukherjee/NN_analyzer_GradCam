@@ -5,7 +5,8 @@
 + forest
 + glacier
 + mountain
-
++ sea
++ street
 
 
 First of all a model is created using CNN. Then using GradCam trying to analysis why modelpredicted that, which section of our model leads the prediction, what is  the contribution of all portion of the image.    
